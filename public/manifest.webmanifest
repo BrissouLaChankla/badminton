@@ -1,7 +1,7 @@
 {
     "name": "Badminton Tournament Planner",
     "short_name": "Badminton",
-    "start_url": "/badminton",
+    "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#0ea5e9",
