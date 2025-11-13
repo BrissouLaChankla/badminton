@@ -363,7 +363,7 @@ export default function BadmintonSchedulerPage() {
       </p>
 
       {/* Contrôles */}
-      <section className="grid gap-4 md:grid-cols-2 mb-6">
+      <section className="grid gap-4 mb-6">
         {/* Nombre de joueurs */}
         <div className="rounded-xl border border-gray-200 bg-white shadow-sm p-4">
           <label
